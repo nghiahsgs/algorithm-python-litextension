@@ -26,8 +26,8 @@ def find_nb_step(x,y):
         else:
             input('err')
 
-        print(x)
-        input(logs)
+        # print(x)
+        # input(logs)
         nb_step+=1
 
         if x==y:
